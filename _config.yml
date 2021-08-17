@@ -36,7 +36,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://og-image.jackcrane.rocks/og/Jack's Blog/Technical discussions and {{n}}postmortems/blog.jackcrane.rocks/https/cheerfulorange/{{h}}ffffff/data.png
+      image: https://og-image.jackcrane.rocks/og/Jack's Blog/Technical discussions and {{n}}postmortems/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
