@@ -3,10 +3,10 @@ layout: post
 title:  "Quizlet Coalition: Postmortem"
 date:   2021-08-14 11:44:36 -0400
 image:
-  path: https://og-image.jackcrane.rocks/og/Quizlet Coalition/postmortem/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
+  path: https://og-image.xyz/og/Quizlet Coalition/postmortem/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 ---
 
-![Quizlet Coalition Screenshot](https://gh.jackcrane.rocks/qc.png)
+![Quizlet Coalition Screenshot](https://jackcrane.rocks/qc.png)
 
 ## The Idea
 

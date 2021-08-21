@@ -3,10 +3,10 @@ layout: post
 title:  "Scarecrow Row: Technical Discussion"
 date:   2021-08-14 11:44:36 -0400
 image:
-  path: https://og-image.jackcrane.rocks/og/Scarecrow Row/Technical Discussion/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
+  path: https://og-image.xyz/og/Scarecrow Row/Technical Discussion/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 ---
 
-![Scarecrow Row Screenshot](https://gh.jackcrane.rocks/sr.png)
+![Scarecrow Row Screenshot](https://jackcrane.rocks/sr.png)
 
 ## The Idea
 
