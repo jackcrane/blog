@@ -6,7 +6,7 @@ image:
   path: https://og-image.xyz/og/Scarecrow Row/Technical Discussion/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 ---
 
-![Scarecrow Row Screenshot](https://jackcrane.rocks/sr.png)
+![Scarecrow Row Screenshot](https://jackcrane.rocks/images/sr.png)
 
 ## The Idea
 

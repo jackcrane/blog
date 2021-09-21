@@ -6,7 +6,7 @@ image:
   path: https://og-image.xyz/og/Quizlet Coalition/postmortem/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 ---
 
-![Quizlet Coalition Screenshot](https://jackcrane.rocks/qc.png)
+![Quizlet Coalition Screenshot](https://jackcrane.rocks/images/qc.png)
 
 ## The Idea
 
