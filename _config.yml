@@ -38,6 +38,10 @@ defaults:
     values:
       image: https://og-image.jackcrane.rocks/og/Jack's Blog/Technical discussions and {{n}}postmortems/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
