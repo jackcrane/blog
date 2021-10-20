@@ -10,7 +10,7 @@ image:
 
 Powered by Cloudflare Workers, this is meant to be a tik-tak-toe game visitors to my GitHub Profile can play. Due to the limitations of GH being frontend, it works by requesting an image for that particular cell in a 3x3 table wrapped in a link that is also affiliated with the cell on the backend. This allows the game to be played from static sites around the internet. Unfortunately, GitHub's caching service breaks the images, even though I have been working on fixing caching issues on the backend.
 
-I know what I am trying to do with dynamic images because of the existance of badges on GitHub readmes that often have to change quickly. I have reached out to GH support and am waiting to hear back.
+I know what I am trying to do with dynamic images is possible because of the existance of badges on GitHub readmes that often have to change quickly. I have reached out to GH support and am waiting to hear back.
 
 Current player: 
 
@@ -71,3 +71,11 @@ Current player:
 </table>
 
 [Reset Game](https://gh-tik-tak-toe.jackcrane.workers.dev/reset)
+
+## Wow cool! How does it work?
+
+First, the tech stack:
+
+- Cloudflare Workers
+- Cloudflare Workers KV
+- GitHub `jackcrane/jackcrane` repo readme.md
