@@ -80,6 +80,8 @@ Current player:
   </tr>
 </table>
 
+(You will need to reload the page after you make a move, otherwise new images will not be fetched)
+
 [Reset Game](https://gh-tik-tak-toe.jackcrane.workers.dev/reset)
 
 ---
@@ -663,6 +665,70 @@ const handleRequest = async(request) => {
     })
   }
 }
+```
+
+```markdown
+Current player: 
+
+<img src="https://gh-tik-tak-toe.jackcrane.workers.dev/current-player?escape-cache">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/0">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/0?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/1">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/1?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/2">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/2?escape-cache">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/3">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/3?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/4">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/4?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/5">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/5?escape-cache">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/6">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/6?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/7">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/7?escape-cache">
+      </a>
+    </td>
+    <td>
+      <a href="https://gh-tik-tak-toe.jackcrane.workers.dev/move/8">
+        <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/image/8?escape-cache">
+      </a>
+    </td>
+  </tr>
+</table>
+
+(You will need to reload the page after you make a move, otherwise new images will not be fetched)
+
+[Reset Game](https://gh-tik-tak-toe.jackcrane.workers.dev/reset)
 ```
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jackcrane" data-description="Support me on Buy me a coffee!" data-message="Feeling generous?" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
