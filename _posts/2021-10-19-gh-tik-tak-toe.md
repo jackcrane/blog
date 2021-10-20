@@ -22,6 +22,8 @@ I know what I am trying to do with dynamic images is possible because of the exi
 
 ## The game
 
+> Unfortunately this does not work on most mobile phones because of their aggressive cahcing policy. I cannot find any way to combat this, so for now, the only realy way to play this is on a computer. Sorry!
+
 Current player: 
 
 <img src="https://gh-tik-tak-toe.jackcrane.workers.dev/current-player?escape-cache">
