@@ -14,25 +14,25 @@ I was frustrated with the lack of a high quality mobile app to use to control my
 
 ## The Features so far
 
-💵 Current billing
-🏦 Historical invoice viewing
-💧 Droplet information view
-📈 Droplet CPU performance information
-🏗 Creating a droplet
-📱 Viewing information for Apps
+- 💵 Current billing
+- 🏦 Historical invoice viewing
+- 💧 Droplet information view
+- 📈 Droplet CPU performance information
+- 🏗 Creating a droplet
+- 📱 Viewing information for Apps
 
 This is far from a full complement to DigitalOcean's products, so here is my current roadmap:
 
-⚙️ Change 'account' link to 'settings' include more settings for the app
-📊 Database listing and editing. This will require some thinking and work. Design suggestions are appreciated!
-🚏 DNS Service support, adding, editing, and deleting entries
-📶 Networking setup with Load Balancers and firewalls
-💿 Add Spaces support, including uploading, downloading, and sharing files
-⛴ Add Kubernetes support with link to the Kube dashboard (?) if possible
-🤖 Make availible on Android
-💦 Implement disk, memory, and networking monitoring for Droplets
-📲 Adding a button that allows the creation of apps
-❗️ Improving netcode error handling
+- ⚙️ Change 'account' link to 'settings' include more settings for the app
+- 📊 Database listing and editing. This will require some thinking and work. Design suggestions are appreciated!
+- 🚏 DNS Service support, adding, editing, and deleting entries
+- 📶 Networking setup with Load Balancers and firewalls
+- 💿 Add Spaces support, including uploading, downloading, and sharing files
+- ⛴ Add Kubernetes support with link to the Kube dashboard (?) if possible
+- 🤖 Make availible on Android
+- 💦 Implement disk, memory, and networking monitoring for Droplets
+- 📲 Adding a button that allows the creation of apps
+- ❗️ Improving netcode error handling
 
 ## The tech stack
 
