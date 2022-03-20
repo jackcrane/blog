@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 Sigma Robotics: Technical Discussion"
+title: "DigitalOcean App: Technical Discussion"
 date: 2022-03-19 11:44:36 -0400
 image:
   path: https://og-image.xyz/og/DigitalOcean App/Technical Discussion/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
