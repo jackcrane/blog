@@ -40,12 +40,8 @@ This is far from a full complement to DigitalOcean's products, so here is my cur
 - DigitalOcean API
 - Cloudflare Workers
 
-## Feedback
+## Interactions with DigitalOcean
 
-Please reach out and let me know what you think! email jack@jackcrane.rocks
-
-## Get it on Testflight
-
-[https://testflight.apple.com/join/TWoGwe16](https://testflight.apple.com/join/TWoGwe16)
+On a whim, I sent this app to DigitalOcean to see if they thought it was cool, I had no other goals when I originally reached out. In the interactions with them, however, I scored some sweet free swag and met some really awesome people! We are still in discussions regarding the future of the app but I am excited to see what the future holds.
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="jackcrane" data-description="Support me on Buy me a coffee!" data-message="Feeling generous?" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
