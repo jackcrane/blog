@@ -40,7 +40,9 @@ Backend:
 
 ## What happened
 
-This is a live and evolving project, I am working with the person in charge of scarecrow row to make this website fit her liking. I have provided 'consultation'-style recommendations, some of which have been taken, some have not.
+This website was my first time working with a "client", and was made to match the client's design. Although I am not thrilled with the design, it was a valuable learning experience on making sure the client is happy with the final product, and on how sometimes an MVP is adequate. The site served as an information platform for the general public, a signup service for exhibitors, and a donation platform, helping to raise over $6000. I am most proud of the community impact of this project. It was not a technical masterpiece, but we were able to raise a huge amount of publicity and money for Madi's House.
+
+Additionally, I was able to learn quite a lot, it was my first production deployment of a node.js backend app as well as the first time any of my projects collected any money through Stripe, so learning how to safely and securely handle payment information was a valuable experience.
 
 ## Live site
 
