@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a bulletproof volunteer registration system"
-date: 2023-04-25 11:44:36 -0400
+date: 2023-03-25 11:44:36 -0400
 image:
   path: https://og-image.xyz/og/Hardening Paddlefest/Technical Discussion/blog.jackcrane.rocks/https/menlo/cheerfulorange/{{h}}ffffff/data.png
 ---
