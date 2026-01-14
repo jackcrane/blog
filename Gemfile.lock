@@ -198,6 +198,7 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
+  universal-darwin-25
   x86_64-darwin-21
 
 DEPENDENCIES
@@ -211,4 +212,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.3.16
+   2.3.24
